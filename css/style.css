@@ -221,7 +221,7 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started:hover {
-  background: none;
+  background: #4fdfa8;
   border-color: #fff;
   color: grey;
 }
