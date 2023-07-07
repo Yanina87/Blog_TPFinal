@@ -16,14 +16,14 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: green;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #0b6bd3;
+  color: green;
   outline: none;
   text-decoration: none;
 }
@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #007bff;
+  background: green;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -152,7 +152,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #00366f;
+  color: greenyellow;
   text-decoration: none;
 }
 
@@ -196,7 +196,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #74b5fc;
+  color: greenyellow;
   text-decoration: underline;
 }
 
@@ -215,8 +215,8 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
+  background: black;
+  border: 2px solid black;
   color: #fff;
 }
 
@@ -231,8 +231,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+  background: black;
+  border-color: black;
   color: #fff;
 }
 
