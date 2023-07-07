@@ -215,8 +215,8 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started {
-  background: black;
-  border: 2px solid black;
+  background: greenyellow;
+  border: 2px solid greenyellow;
   color: #fff;
 }
 
@@ -231,8 +231,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: black;
-  border-color: black;
+  background: greenyellow;
+  border-color: greenyellow;
   color: #fff;
 }
 
